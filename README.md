@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shashank495
-- 👀 I’m interested in Front-End Developer
-- 🌱 I’m currently learning React
+- 👀 I’m a Front-End Developer
 - 💞️ I’m looking to collaborate on Web Apps
 - 📫 How to reach me E-mail : shashank.041195@gmail.com
 
